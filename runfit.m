@@ -1,3 +1,4 @@
+# Use this file to fit a curve using MATLAB
 data = xlsread('delay.xlsx'); 
  
  for n = 1:size(data,1)
