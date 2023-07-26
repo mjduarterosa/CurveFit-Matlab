@@ -1,6 +1,6 @@
 # Use this file to fit a curve using MATLAB
 
-# Load data
+# Load data from spreadsheet
 data = xlsread('delay.xlsx'); 
  
  for n = 1:size(data,1)
